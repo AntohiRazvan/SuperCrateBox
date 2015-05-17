@@ -1,0 +1,575 @@
+fileFormatVersion: 2
+guid: ab65f296954d5b24194f8e14f5822846
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SCB_P1Enemies_6
+    21300002: SCB_P1Enemies_7
+    21300004: SCB_P1Enemies_8
+    21300006: SCB_P1Enemies_9
+    21300008: SCB_P1Enemies_10
+    21300010: SCB_P1Enemies_14
+    21300012: SCB_P1Enemies_15
+    21300014: SCB_P1Enemies_16
+    21300016: SCB_P1Enemies_17
+    21300018: SCB_P1Enemies_18
+    21300020: SCB_P1Enemies_23
+    21300022: SCB_P1Enemies_24
+    21300024: SCB_P1Enemies_25
+    21300026: SCB_P1Enemies_26
+    21300028: SCB_P1Enemies_27
+    21300030: SCB_P1Enemies_28
+    21300032: SCB_P1Enemies_29
+    21300034: SCB_P1Enemies_30
+    21300036: SCB_P1Enemies_31
+    21300038: SCB_P1Enemies_32
+    21300040: SCB_P1Enemies_33
+    21300042: SCB_P1Enemies_34
+    21300044: SCB_P1Enemies_35
+    21300046: SCB_P1Enemies_36
+    21300048: SCB_P1Enemies_37
+    21300050: SCB_P1Enemies_38
+    21300052: SCB_P1Enemies_39
+    21300054: SCB_P1Enemies_40
+    21300056: SCB_P1Enemies_41
+    21300058: SCB_P1Enemies_42
+    21300060: SCB_P1Enemies_43
+    21300062: SCB_P1Enemies_44
+    21300064: SCB_P1Enemies_45
+    21300066: SCB_P1Enemies_46
+    21300068: SCB_P1Enemies_47
+    21300070: SCB_P1Enemies_48
+    21300072: SCB_P1Enemies_49
+    21300074: SCB_P1Enemies_50
+    21300076: SCB_P1Enemies_51
+    21300078: SCB_P1Enemies_52
+    21300080: SCB_P1Enemies_53
+    21300082: SCB_P1Enemies_54
+    21300084: SCB_P1Enemies_55
+    21300086: SCB_P1Enemies_56
+    21300088: SCB_P1Enemies_57
+    21300090: SCB_P1Enemies_58
+    21300092: SCB_P1Enemies_59
+    21300094: SCB_P1Enemies_60
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: SCB_P1Enemies_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 249
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_9
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_10
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 249
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_14
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 215
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_15
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 215
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_16
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_17
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 215
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_18
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 215
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_25
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 182
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 120
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_27
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 120
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 120
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_29
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 120
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 120
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_31
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 97
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_32
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 97
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_33
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 97
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_34
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 97
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_35
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 97
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_36
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 97
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_37
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 97
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_38
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 97
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_40
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 97
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_42
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 83
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_43
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_45
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_47
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_48
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_49
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 83
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_50
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_51
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 83
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_52
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 83
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_54
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 69
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_55
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_56
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_58
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 69
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_59
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 69
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: SCB_P1Enemies_60
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 58
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

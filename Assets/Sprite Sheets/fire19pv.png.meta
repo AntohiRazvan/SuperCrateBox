@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 594df5ccdc1bb7e4fb69fbca49dc5834
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: fire19pv_0
+    21300002: fire19pv_1
+    21300004: fire19pv_2
+    21300006: fire19pv_3
+    21300008: fire19pv_4
+    21300010: fire19pv_5
+    21300012: fire19pv_6
+    21300014: fire19pv_7
+    21300016: fire19pv_8
+    21300018: fire19pv_9
+    21300020: fire19pv_10
+    21300022: fire19pv_11
+    21300024: fire19pv_12
+    21300026: fire19pv_13
+    21300028: fire19pv_14
+    21300030: fire19pv_15
+    21300032: fire19pv_16
+    21300034: fire19pv_17
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: fire19pv_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 612
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 615
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_2
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 616
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_3
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 609
+        width: 154
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_4
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 612
+        width: 150
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_5
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 414
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_6
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 414
+        width: 158
+        height: 89
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_7
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 416
+        width: 158
+        height: 95
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_8
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 413
+        width: 146
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_9
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 412
+        width: 148
+        height: 117
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_10
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 210
+        width: 149
+        height: 103
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_11
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 216
+        width: 140
+        height: 97
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_12
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 211
+        width: 142
+        height: 107
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_13
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 211
+        width: 151
+        height: 106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_14
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 17
+        width: 168
+        height: 104
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_15
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 19
+        width: 162
+        height: 105
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_16
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 19
+        width: 160
+        height: 114
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: fire19pv_17
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 16
+        width: 165
+        height: 112
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 

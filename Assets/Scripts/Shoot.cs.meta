@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 200963e3cd5e8c349995b3972cd20d5f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - pistol: {instanceID: 0}
+  - dualPistol: {instanceID: 0}
+  - machinegun: {instanceID: 0}
+  - bazooka: {instanceID: 0}
+  - magnum: {instanceID: 0}
+  - discgun: {instanceID: 0}
+  - flamethrower: {instanceID: 0}
+  - knife: {instanceID: 0}
+  - lasergun: {instanceID: 0}
+  - mine: {instanceID: 0}
+  - minigun: {instanceID: 0}
+  - shotgun: {instanceID: 0}
+  - bullet: {instanceID: 0}
+  - magnumBullet: {instanceID: 0}
+  - shotgunBullet: {instanceID: 0}
+  - pickupSound: {fileID: 8300000, guid: d6067b127588e824db99dd0eba996adf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
